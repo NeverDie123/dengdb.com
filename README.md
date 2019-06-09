@@ -1,0 +1,2 @@
+# dengdb.com
+Never die
